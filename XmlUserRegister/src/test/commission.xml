@@ -1,0 +1,47 @@
+<commissions>
+    <commission >
+        <from_type>Uzcard</from_type>
+        <to_type>Uzcard</to_type>
+        <percent>0</percent>
+    </commission>
+    <commission>
+        <from_type>Uzcard</from_type>
+        <to_type>Humo</to_type>
+        <percent>1</percent>
+    </commission>
+    <commission>
+        <from_type>Humo</from_type>
+        <to_type>Uzcard</to_type>
+        <percent>1</percent>
+    </commission>
+    <commission>
+        <from_type>Humo</from_type>
+        <to_type>Humo</to_type>
+        <percent>0</percent>
+    </commission>
+    <commission>
+        <from_type>Visa</from_type>
+        <to_type>Visa</to_type>
+        <percent>0</percent>
+    </commission>
+    <commission>
+        <from_type>Visa</from_type>
+        <to_type>Uzcard</to_type>
+        <percent>5</percent>
+    </commission>
+    <commission>
+        <from_type>Uzcard</from_type>
+        <to_type>Visa</to_type>
+        <percent>5</percent>
+    </commission>
+    <commission>
+        <from_type>Visa</from_type>
+        <to_type>Humo</to_type>
+        <percent>5</percent>
+    </commission>
+    <commission>
+        <from_type>Humo</from_type>
+        <to_type>Visa</to_type>
+        <percent>5</percent>
+    </commission>
+</commissions>

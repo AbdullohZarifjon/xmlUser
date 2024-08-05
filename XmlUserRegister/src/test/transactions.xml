@@ -1,0 +1,52 @@
+<payments>
+  <payment id="1" amount="2000.0">
+    <fromCard>8600</fromCard>
+    <toCard>9860</toCard>
+    <date>1722600741283</date>
+    <commission>0.0</commission>
+    <commission_amount>0.0</commission_amount>
+    <status>ERROR_CARD_MONEY_IS_NOT_ENOUGH</status>
+    <message>money is not enough</message>
+    <state>error</state>
+  </payment>
+  <payment id="1" amount="1000.0">
+    <fromCard>8600</fromCard>
+    <toCard>9860</toCard>
+    <date>1722600783740</date>
+    <commission>1.0</commission>
+    <commission_amount>10.0</commission_amount>
+    <status>SUCCESS</status>
+    <message>transaction is success</message>
+    <state>success</state>
+  </payment>
+  <payment id="1" amount="1000.0">
+    <fromCard>8600</fromCard>
+    <toCard>8600</toCard>
+    <date>1722600837999</date>
+    <commission>0.0</commission>
+    <commission_amount>0.0</commission_amount>
+    <status>ERROR_CARD_SAME</status>
+    <message>same card</message>
+    <state>error</state>
+  </payment>
+  <payment id="1" amount="2390.0">
+    <fromCard>23242</fromCard>
+    <toCard>8600</toCard>
+    <date>1722600849311</date>
+    <commission>0.0</commission>
+    <commission_amount>0.0</commission_amount>
+    <status>ERROR_CARD_NOT_FOUND</status>
+    <message>card not found</message>
+    <state>error</state>
+  </payment>
+  <payment id="1" amount="1000.0">
+    <fromCard>1234</fromCard>
+    <toCard>0000</toCard>
+    <date>1722688642928</date>
+    <commission>0.0</commission>
+    <commission_amount>0.0</commission_amount>
+    <status>SUCCESS</status>
+    <message>transaction is success</message>
+    <state>success</state>
+  </payment>
+</payments>
