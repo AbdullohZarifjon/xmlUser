@@ -1,0 +1,20 @@
+<cards>
+  <card>
+    <id>94fc95d3-f5ea-4a7a-ab1a-9d5046bfbf46</id>
+    <userId>072a4062-fc2d-45dd-9a56-e602d0fb595e</userId>
+    <name>12</name>
+    <cardNumber>12</cardNumber>
+    <balance>12.0</balance>
+    <password>12</password>
+    <cardType>VISA</cardType>
+  </card>
+  <card>
+    <id>fb388054-d99a-4fab-967f-ce413734aece</id>
+    <userId>072a4062-fc2d-45dd-9a56-e602d0fb595e</userId>
+    <name>23</name>
+    <cardNumber>23</cardNumber>
+    <balance>23.0</balance>
+    <password>23</password>
+    <cardType>VISA</cardType>
+  </card>
+</cards>

@@ -1,6 +1,5 @@
 package uz.Pdp.model;
 
-import jdk.jfr.DataAmount;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -14,10 +13,8 @@ import java.util.UUID;
 @Builder
 public class User {
     private UUID id;
-    private String firstName;
-    private String lastname;
+    private String name;
+    private String userName;
     private int age;
     private String password;
-
-
 }
